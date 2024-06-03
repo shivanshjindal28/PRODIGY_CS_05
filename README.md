@@ -30,8 +30,8 @@ This output format provides a clear and structured view of the captured network 
 Some important prerequisites:<br>
 1. Install Scapy: Open a terminal (Command Prompt, PowerShell, or the integrated terminal in VS Code) and install scapy using pip: <mark>pip install scapy</mark><br>
 2. Run the Script: In the integrated terminal, navigate to the directory containing your packet_sniffer.py file if you aren't already there.<br>
-   a) Run the script using Python: <mark>sudo python3 packet_sniffer.py</mark><br>
-   b) or for Windows: <mark>python packet_sniffer.py</mark><br><br>
+   a) Run the script using Python: `sudo python3 packet_sniffer.py`<br>
+   b) or for Windows: `python packet_sniffer.py`<br><br>
 
 Ethical considerations: <br>
 I) Educational Use: Ensure that the tool is used strictly for educational purposes, such as learning about network protocols and packet structures.<br>
